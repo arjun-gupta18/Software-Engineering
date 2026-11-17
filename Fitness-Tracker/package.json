@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "start": "npm --prefix server start",
+    "dev": "npm --prefix server run dev"
+  },
+  "dependencies": {
+    "react-router-dom": "^7.18.2",
+    "recharts": "^3.10.1"
+  }
+}
